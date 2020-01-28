@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DRU</string>
+    <string name="sliitCivil"><a href="https://www.sliit.lk/engineering/programmes/civil-engineering-degree//">SLIIT</a></string>
+    <string name="sltcCivil"><a href="https://sltc.ac.lk/education/school-of-engineering/bsc-hons-civil-engineering">SLTC</a></string>
+    <string name="cinecCivil"><a href="https://www.cinec.edu/courses/beng-hons-civil-engineering-international.html">CINEC</a></string>
+    <string name="civilNorthsore"><a href="http://www.northshore.lk/programmes/civil-engineering/">Northshore College of Business and Technology</a></string>
+    <string name="civilIcbt"><a href="https://www.icbt.lk/courses/bsc-hons-in-civil-structural-engineering/">ICBT Campus</a></string>
+    <string name="ugc"><i><b>UGC</b> recognized</i></string>
+    <string name="iitSoftware"><a href="https://www.iit.ac.lk/course/beng-software-engineering/">IIT</a></string>
+    <string name="sliitSoftware"><a href="https://www.sliit.lk/computing/programmes/software-engineering-degree/">SLIIT</a></string>
+    <string name="icbtSoftware"><a href="https://www.icbt.lk/courses/bsc-hons-software-engineering/">ICBT Campus</a></string>
+    <string name="northshoreSoftware"><a href="http://www.northshore.lk/programmes/software-engineering/">Northshore College of Business and Technology</a></string>
+    <string name="nsbmSoftware"><a href="http://nsbm.lk/programmes/27/BSc-(Honours)-in-Software-Engineering">NSBM Green University</a></string>
+    <string name="esoftSoftware"><a href="http://esoft.lk/computer-studies/school-of-computing/top-up-degree-programmes/beng-hons-in-software-engineering-top-up-london-met-uk/">ESOFT Metro Campus</a></string>
+    <string name="appitSoftware"><a href="https://www.apiit.lk/computer/software-engineering">APIIT</a></string>
+</resources>
